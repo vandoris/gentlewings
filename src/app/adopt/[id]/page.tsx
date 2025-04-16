@@ -93,11 +93,11 @@ export default function ParrotDetailPage() {
         <p className="text-base text-gray-700 mb-6">{parrot.medical}</p>
 
         <Link
-          href="/apply"
-          className="inline-block bg-[#91C5A9] text-white px-5 py-2 rounded hover:bg-[#7CAF95] transition"
-        >
-          我要認養牠
-        </Link>
+  href={`/apply?parrot=${encodeURIComponent(parrot.name)}`}
+  className="inline-block bg-[#91C5A9] text-white px-5 py-2 rounded hover:bg-[#7CAF95] transition"
+>
+  我要認養牠
+</Link>
       </div>
     </main>
   );
