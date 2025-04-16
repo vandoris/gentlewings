@@ -27,7 +27,7 @@ export default function HomePage() {
       <section className="max-w-4xl mx-auto px-4 py-12 text-center">
         <h2 className="text-2xl font-bold text-[#4D7C6D] mb-4">我們的使命</h2>
         <p className="text-gray-700 text-lg">
-          GentleWings 是一個致力於鸚鵡救援、療癒與認養的溫暖平台。每一隻被遺棄、受傷或需要新家的鳥寶，都值得被理解與尊重。
+          善羽園是一個致力於鸚鵡救援、療癒與認養的溫暖平台。每一隻被遺棄、受傷或需要新家的鳥寶，都值得被理解與尊重。
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
