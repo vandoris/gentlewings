@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "阿綠",
+    "species": "和尚鸚鵡",
+    "gender": "公",
+    "age": 2,
+    "personality": "活潑親人，喜歡互動",
+    "status": "待認養",
+    "photo": "/parrots/bird1.png",
+    "photos": [
+      "/parrots/bird2.png",
+      "/parrots/bird3.png"
+    ],
+    "medical": "健康，無需特殊醫療",
+    "entryDate": "2025-04-10"
+  },
+  {
+    "id": 2,
+    "name": "小馬",
+    "species": "亞馬遜鸚鵡",
+    "gender": "公",
+    "age": 1,
+    "personality": "安靜內向，適合有經驗飼主",
+    "status": "待認養",
+    "photo": "/parrots/bird2.png",
+    "photos": [
+      "/parrots/bird1.png",
+      "/parrots/bird3.png"
+    ],
+    "medical": "健康，無需特殊醫療",
+    "entryDate": "2025-04-10"
+  },
+  {
+    "id": 3,
+    "name": "小虎",
+    "species": "虎皮鸚鵡",
+    "gender": "公",
+    "age": 4,
+    "personality": "充滿活力，會模仿聲音",
+    "status": "已預約",
+    "photo": "/parrots/bird3.png",
+    "photos": [
+      "/parrots/bird1.png",
+      "/parrots/bird2.png"
+    ],
+    "medical": "健康，無需特殊醫療",
+    "entryDate": "2025-04-10"
+  }
+]
